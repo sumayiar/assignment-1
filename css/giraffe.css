@@ -1,0 +1,15 @@
+body {
+    font-family: 'Comic Sans MS', 'Comic Sans', sans-serif; 
+    font-weight: bold; 
+    background-color: #af8159;
+    text-align: center;
+}
+
+img {
+    height: 500px;
+}
+
+p {
+    max-width: 800px;
+    margin: 20px auto; 
+}
