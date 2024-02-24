@@ -5,7 +5,7 @@ Team members: Sumayia Rashid, Tamanna Chowdhury (
 tamannachowdhuryy), and Zeeshan Ahmed Gondal (ZeeshanAG)
 
 ### Live Link
-[[Website link](https://johnnylaicode.github.io/zoo-starter-code/)](https://sumayiar.github.io/assignment-1/)
+[[Website link]((https://sumayiar.github.io/assignment-1/)](https://sumayiar.github.io/assignment-1/)
 
 ----------
 ### 1. Use the following process to ***import*** the Assignment 1 starter code repository to your GitHub account as your starter codebase
