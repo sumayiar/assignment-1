@@ -1,7 +1,7 @@
 # zoo-starter-code
 
 This repository is the starter code for Assignment 1 - Zoo.
-Team members: Sumayia Rashid, Tamanna Chowdhury, and Zeeshan Ahmed Gondal
+Team members: Sumayia Rashid, Tamanna Chowdhury, and Zeeshan Ahmed Gondal (ZeeshanAG)
 
 ### Live Link
 [[Website link](https://johnnylaicode.github.io/zoo-starter-code/)](https://sumayiar.github.io/assignment-1/)
